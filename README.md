@@ -1,5 +1,7 @@
 # AuthentiCall Detection using Emotion Analysis
 
+
+
 ## 📌 Overview
 We developed a platform for **emergency helplines** to analyze the **degree of genuineness or fakeness** of a call they receive.  
 The system analyzes **vocal emotions** using **deep learning** and is deployed as a **Flask web application**.
@@ -92,3 +94,8 @@ pip install -r requirements.txt
 
 # Run the web app
 python main.py
+
+
+
+
+
