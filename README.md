@@ -84,7 +84,6 @@ We used a **Time Distributed Convolutional Neural Network (CNN)** with the follo
 ---
 
 ## IV. 💻 How to Use
-```bash
 # Clone the repository
 git clone <your-repo-url>
 cd <your-project-folder>
@@ -94,6 +93,17 @@ pip install -r requirements.txt
 
 # Run the web app
 python main.py
+
+---
+
+## V. 🎥 Demo Video
+Watch the demo of **AuthentiCall Detection using Emotion Analysis** here:  
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
+
+---
+
+## VI. 🤝 Contributors
+- **Anish Bhardwaj** – Project Lead, Model Development, Flask Integration  
 
 
 
