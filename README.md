@@ -82,10 +82,20 @@ We used a **Time Distributed Convolutional Neural Network (CNN)** with the follo
 - Best Model Checkpointing  
 
 ---
+## IV. 🎥 Demo Video
+Watch the demo of **AuthentiCall Detection using Emotion Analysis** here:  
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
 
-## IV. 💻 How to Use
+---
+
+## V. 🤝 Contributors
+- **[Daksh Saini](https://github.com/sainidaksh45)**  
+
+## VI. 💻 How to Use
+```bash
+
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/21Ani/AuthentiCall.git
 cd <your-project-folder>
 
 # Install dependencies
@@ -96,14 +106,6 @@ python main.py
 
 ---
 
-## V. 🎥 Demo Video
-Watch the demo of **AuthentiCall Detection using Emotion Analysis** here:  
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
-
----
-
-## VI. 🤝 Contributors
-- **Anish Bhardwaj** – Project Lead, Model Development, Flask Integration  
 
 
 
